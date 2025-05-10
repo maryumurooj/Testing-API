@@ -1,0 +1,542 @@
+{
+  "states": [
+    {
+      "state": "Telangana",
+      "districts": [
+        {
+          "name": "Adilabad",
+          "towns": ["Adilabad", "Nirmal", "Bhainsa", "Utnoor", "Bellampalli"]
+        },
+        {
+          "name": "Bhadradri Kothagudem",
+          "towns": [
+            "Kothagudem",
+            "Palwancha",
+            "Bhadrachalam",
+            "Manuguru",
+            "Sathupalli"
+          ]
+        },
+        {
+          "name": "Hyderabad",
+          "towns": [
+            "Hyderabad",
+            "Secunderabad",
+            "Cyberabad",
+            "Shamshabad",
+            "Gachibowli"
+          ]
+        },
+        {
+          "name": "Jagtial",
+          "towns": ["Jagtial", "Koratla", "Metpalli", "Pegadapalli", "Raikal"]
+        },
+        {
+          "name": "Jangaon",
+          "towns": ["Jangaon", "Ghanpur", "Cherial", "Kodakandla", "Narmetta"]
+        },
+        {
+          "name": "Jayashankar Bhupalpally",
+          "towns": [
+            "Bhupalpally",
+            "Manthani",
+            "Mahadevpur",
+            "Mulug",
+            "Eturnagaram"
+          ]
+        },
+        {
+          "name": "Jogulamba Gadwal",
+          "towns": ["Gadwal", "Alampur", "Dharoor", "Maldakal", "Waddepalli"]
+        },
+        {
+          "name": "Kamareddy",
+          "towns": [
+            "Kamareddy",
+            "Banswada",
+            "Bichkunda",
+            "Yellareddy",
+            "Pitlam"
+          ]
+        },
+        {
+          "name": "Karimnagar",
+          "towns": [
+            "Karimnagar",
+            "Sircilla",
+            "Huzurabad",
+            "Vemulawada",
+            "Choppadandi"
+          ]
+        },
+        {
+          "name": "Khammam",
+          "towns": ["Khammam", "Kalluru", "Wyra", "Madhira", "Yellandu"]
+        },
+        {
+          "name": "Komaram Bheem Asifabad",
+          "towns": ["Asifabad", "Kagaznagar", "Sirpur", "Luxettipet", "Bejjur"]
+        },
+        {
+          "name": "Mahabubabad",
+          "towns": ["Mahabubabad", "Narsampet", "Gudur", "Kuravi", "Kesamudram"]
+        },
+        {
+          "name": "Mahabubnagar",
+          "towns": [
+            "Mahabubnagar",
+            "Wanaparthy",
+            "Gadwal",
+            "Kollapur",
+            "Amangal"
+          ]
+        },
+        {
+          "name": "Mancherial",
+          "towns": [
+            "Mancherial",
+            "Bellampalli",
+            "Mandamarri",
+            "Luxettipet",
+            "Jaipur"
+          ]
+        },
+        {
+          "name": "Medak",
+          "towns": ["Medak", "Sangareddy", "Siddipet", "Zahirabad", "Narsapur"]
+        },
+        {
+          "name": "Medchal-Malkajgiri",
+          "towns": [
+            "Malkajgiri",
+            "Medchal",
+            "Keesara",
+            "Shamirpet",
+            "Ghatkesar"
+          ]
+        },
+        {
+          "name": "Mulugu",
+          "towns": ["Mulugu", "Venkatapur", "Eturnagaram", "Mangapet", "Tadvai"]
+        },
+        {
+          "name": "Nagarkurnool",
+          "towns": [
+            "Nagarkurnool",
+            "Achampet",
+            "Kollapur",
+            "Kalwakurthy",
+            "Amrabad"
+          ]
+        },
+        {
+          "name": "Nalgonda",
+          "towns": [
+            "Nalgonda",
+            "Miryalaguda",
+            "Suryapet",
+            "Kodad",
+            "Devarakonda"
+          ]
+        },
+        {
+          "name": "Narayanpet",
+          "towns": ["Narayanpet", "Makthal", "Maganoor", "Damdapur", "Kosgi"]
+        },
+        {
+          "name": "Nirmal",
+          "towns": ["Nirmal", "Bhainsa", "Mudhole", "Lokeswaram", "Khanapur"]
+        },
+        {
+          "name": "Nizamabad",
+          "towns": ["Nizamabad", "Kamareddy", "Bodhan", "Armoor", "Yellareddy"]
+        },
+        {
+          "name": "Peddapalli",
+          "towns": [
+            "Peddapalli",
+            "Ramagundam",
+            "Manthani",
+            "Sultanabad",
+            "Julapalli"
+          ]
+        },
+        {
+          "name": "Rajanna Sircilla",
+          "towns": [
+            "Sircilla",
+            "Vemulawada",
+            "Mustabad",
+            "Ellanthakunta",
+            "Boinpalli"
+          ]
+        },
+        {
+          "name": "Rangareddy",
+          "towns": [
+            "Shamshabad",
+            "Ibrahimpatnam",
+            "Vikarabad",
+            "Tandur",
+            "Kulkacherla"
+          ]
+        },
+        {
+          "name": "Sangareddy",
+          "towns": [
+            "Sangareddy",
+            "Zaheerabad",
+            "Patancheru",
+            "Jinnaram",
+            "Narayankhed"
+          ]
+        },
+        {
+          "name": "Siddipet",
+          "towns": ["Siddipet", "Gajwel", "Dubbak", "Husnabad", "Nangnoor"]
+        },
+        {
+          "name": "Suryapet",
+          "towns": [
+            "Suryapet",
+            "Kodad",
+            "Huzurnagar",
+            "Chivvemla",
+            "Neredcherla"
+          ]
+        },
+        {
+          "name": "Vikarabad",
+          "towns": ["Vikarabad", "Tandur", "Dharur", "Kulkacharla", "Pargi"]
+        },
+        {
+          "name": "Wanaparthy",
+          "towns": ["Wanaparthy", "Kollapur", "Pebbair", "Chennur", "Gopalpet"]
+        },
+        {
+          "name": "Warangal Urban",
+          "towns": [
+            "Warangal",
+            "Hanamkonda",
+            "Kazipet",
+            "Mahabubabad",
+            "Parkal"
+          ]
+        },
+        {
+          "name": "Warangal Rural",
+          "towns": [
+            "Wardhannapet",
+            "Bhupalpally",
+            "Narsampet",
+            "Ghanpur",
+            "Zaffergadh"
+          ]
+        },
+        {
+          "name": "Yadadri Bhuvanagiri",
+          "towns": [
+            "Bhuvanagiri",
+            "Yadagirigutta",
+            "Alair",
+            "Choutuppal",
+            "Ramannapeta"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "districts": [
+        {
+          "name": "Anantapur",
+          "towns": [
+            "Anantapur",
+            "Dharmavaram",
+            "Hindupur",
+            "Kadiri",
+            "Guntakal",
+            "Tadipatri",
+            "Gooty"
+          ]
+        },
+        {
+          "name": "Chittoor",
+          "towns": [
+            "Chittoor",
+            "Tirupati",
+            "Madanapalle",
+            "Palamaner",
+            "Punganur",
+            "Nagari",
+            "Srikalahasti"
+          ]
+        },
+        {
+          "name": "East Godavari",
+          "towns": [
+            "Kakinada",
+            "Rajahmundry",
+            "Amalapuram",
+            "Peddapuram",
+            "Ramachandrapuram",
+            "Tuni",
+            "Mandapeta"
+          ]
+        },
+        {
+          "name": "Guntur",
+          "towns": [
+            "Guntur",
+            "Tenali",
+            "Narasaraopet",
+            "Ponnur",
+            "Bapatla",
+            "Vinukonda",
+            "Repalle"
+          ]
+        },
+        {
+          "name": "Krishna",
+          "towns": [
+            "Vijayawada",
+            "Machilipatnam",
+            "Gudivada",
+            "Nuzvid",
+            "Jaggayyapeta",
+            "Nandigama",
+            "Mylavaram"
+          ]
+        },
+        {
+          "name": "Kurnool",
+          "towns": [
+            "Kurnool",
+            "Nandyal",
+            "Adoni",
+            "Yemmiganur",
+            "Dhone",
+            "Banaganapalle",
+            "Atmakur"
+          ]
+        },
+        {
+          "name": "Nellore",
+          "towns": [
+            "Nellore",
+            "Gudur",
+            "Kavali",
+            "Sullurpeta",
+            "Naidupet",
+            "Venkatagiri",
+            "Atmakur"
+          ]
+        },
+        {
+          "name": "Prakasam",
+          "towns": [
+            "Ongole",
+            "Markapur",
+            "Kandukur",
+            "Chirala",
+            "Darsi",
+            "Parchur",
+            "Giddalur"
+          ]
+        },
+        {
+          "name": "Srikakulam",
+          "towns": [
+            "Srikakulam",
+            "Palasa",
+            "Tekkali",
+            "Amadalavalasa",
+            "Narasannapeta",
+            "Ichchapuram",
+            "Pathapatnam"
+          ]
+        },
+        {
+          "name": "Visakhapatnam",
+          "towns": [
+            "Visakhapatnam",
+            "Anakapalle",
+            "Bheemunipatnam",
+            "Narsipatnam",
+            "Paderu",
+            "Araku",
+            "Chodavaram"
+          ]
+        },
+        {
+          "name": "Vizianagaram",
+          "towns": [
+            "Vizianagaram",
+            "Bobbili",
+            "Parvathipuram",
+            "Salur",
+            "Gajapathinagaram",
+            "Srungavarapukota",
+            "Cheepurupalli"
+          ]
+        },
+        {
+          "name": "West Godavari",
+          "towns": [
+            "Eluru",
+            "Bhimavaram",
+            "Tadepalligudem",
+            "Tanuku",
+            "Palakollu",
+            "Narsapuram",
+            "Jangareddigudem"
+          ]
+        },
+        {
+          "name": "YSR Kadapa",
+          "towns": [
+            "Kadapa",
+            "Proddatur",
+            "Rayachoti",
+            "Pulivendula",
+            "Jammalamadugu",
+            "Mydukur",
+            "Badvel"
+          ]
+        },
+        {
+          "name": "Annamayya",
+          "towns": [
+            "Rayachoti",
+            "Madanapalle",
+            "Pileru",
+            "Kalikiri",
+            "Punganur",
+            "Siddavaram",
+            "Chinnamandem"
+          ]
+        },
+        {
+          "name": "Alluri Sitharama Raju",
+          "towns": [
+            "Paderu",
+            "Rampachodavaram",
+            "Chintapalle",
+            "Annavaram",
+            "Maredumilli",
+            "Gudem Kotha Veedhi",
+            "Golugonda"
+          ]
+        },
+        {
+          "name": "Bapatla",
+          "towns": [
+            "Bapatla",
+            "Ponnur",
+            "Repalle",
+            "Karlapalem",
+            "Cherukupalle",
+            "Nizampatnam",
+            "Nagaram"
+          ]
+        },
+        {
+          "name": "Eluru",
+          "towns": [
+            "Eluru",
+            "Jangareddigudem",
+            "Polavaram",
+            "Kovvur",
+            "Nallajerla",
+            "Tadepalligudem",
+            "Denduluru"
+          ]
+        },
+        {
+          "name": "Kakinada",
+          "towns": [
+            "Kakinada",
+            "Pithapuram",
+            "Pedapudi",
+            "Samalkota",
+            "Karapa",
+            "Thondangi",
+            "Uppada"
+          ]
+        },
+        {
+          "name": "Konaseema",
+          "towns": [
+            "Amalapuram",
+            "Razole",
+            "Mummidivaram",
+            "Kothapeta",
+            "Mandapeta",
+            "Allavaram",
+            "Ainavilli"
+          ]
+        },
+        {
+          "name": "NTR",
+          "towns": [
+            "Vijayawada",
+            "Mangalagiri",
+            "Nandigama",
+            "Jaggayyapeta",
+            "Ibrahimpatnam",
+            "Penamaluru",
+            "Kanchikacherla"
+          ]
+        },
+        {
+          "name": "Palnadu",
+          "towns": [
+            "Narasaraopet",
+            "Chilakaluripet",
+            "Vinukonda",
+            "Sattenapalle",
+            "Gurazala",
+            "Macherla",
+            "Durgi"
+          ]
+        },
+        {
+          "name": "Parvathipuram Manyam",
+          "towns": [
+            "Parvathipuram",
+            "Salur",
+            "Bobbili",
+            "Gajapathinagaram",
+            "Gummalakshmipuram",
+            "Makkuva",
+            "Seethanagaram"
+          ]
+        },
+        {
+          "name": "Sri Sathya Sai",
+          "towns": [
+            "Puttaparthi",
+            "Dharmavaram",
+            "Hindupur",
+            "Kadiri",
+            "Bukkapatnam",
+            "Kothacheruvu",
+            "Amadagur"
+          ]
+        },
+        {
+          "name": "Tirupati",
+          "towns": [
+            "Tirupati",
+            "Chandragiri",
+            "Puttur",
+            "Srikalahasti",
+            "Renigunta",
+            "Nagari",
+            "Yerpedu"
+          ]
+        }
+      ]
+    }
+  ]
+}

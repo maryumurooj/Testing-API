@@ -1,14 +1,11 @@
+// models/state.js
 const mongoose = require('mongoose');
 
 const stateSchema = new mongoose.Schema({
-  name: {
-    type: String,
-    required: true,
-    unique: true
-  },
+  name: { type: String, required: true, unique: true },
   districts: [{
-    type: String,
-    required: true
+    name: String,
+    towns: [String]
   }]
 });
 
