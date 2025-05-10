@@ -1,0 +1,146 @@
+{
+    "states": [
+      {
+        "id": "AN",
+        "name": "Andaman and Nicobar Islands",
+        "type": "Union Territory",
+        "capital": "Port Blair",
+        "districts": [
+          {
+            "id": "AN-NI",
+            "name": "Nicobar",
+            "headquarters": "Car Nicobar",
+            "cities": ["Car Nicobar", "Campbell Bay", "Nancowry"]
+          },
+          {
+            "id": "AN-NA",
+            "name": "North and Middle Andaman",
+            "headquarters": "Mayabunder",
+            "cities": ["Mayabunder", "Diglipur", "Rangat"]
+          },
+          {
+            "id": "AN-SA",
+            "name": "South Andaman",
+            "headquarters": "Port Blair",
+            "cities": ["Port Blair", "Ferrargunj", "Little Andaman"]
+          }
+        ]
+      },
+      {
+        "id": "AP",
+        "name": "Andhra Pradesh",
+        "type": "State",
+        "capital": "Amaravati",
+        "districts": [
+          {
+            "id": "AP-ANT",
+            "name": "Anantapur",
+            "headquarters": "Anantapur",
+            "cities": ["Anantapur", "Dharmavaram", "Hindupur", "Kadiri", "Tadipatri"]
+          },
+          {
+            "id": "AP-CTO",
+            "name": "Chittoor",
+            "headquarters": "Chittoor",
+            "cities": ["Chittoor", "Tirupati", "Madanapalle", "Srikalahasti"]
+          },
+          {
+            "id": "AP-EG",
+            "name": "East Godavari",
+            "headquarters": "Kakinada",
+            "cities": ["Kakinada", "Rajahmundry", "Amalapuram", "Tuni"]
+          },
+          {
+            "id": "AP-GUN",
+            "name": "Guntur",
+            "headquarters": "Guntur",
+            "cities": ["Guntur", "Tenali", "Mangalagiri", "Bapatla"]
+          },
+          {
+            "id": "AP-KAD",
+            "name": "Kadapa",
+            "headquarters": "Kadapa",
+            "cities": ["Kadapa", "Proddatur", "Rayachoti", "Jammalamadugu"]
+          }
+        ]
+      },
+      {
+        "id": "AR",
+        "name": "Arunachal Pradesh",
+        "type": "State",
+        "capital": "Itanagar",
+        "districts": [
+          {
+            "id": "AR-AJ",
+            "name": "Anjaw",
+            "headquarters": "Hawai",
+            "cities": ["Hawai", "Walong"]
+          },
+          {
+            "id": "AR-CH",
+            "name": "Changlang",
+            "headquarters": "Changlang",
+            "cities": ["Changlang", "Miao", "Bordumsa"]
+          },
+          {
+            "id": "AR-EK",
+            "name": "East Kameng",
+            "headquarters": "Seppa",
+            "cities": ["Seppa", "Bameng"]
+          }
+        ]
+      },
+      {
+        "id": "AS",
+        "name": "Assam",
+        "type": "State",
+        "capital": "Dispur",
+        "districts": [
+          {
+            "id": "AS-BAK",
+            "name": "Baksa",
+            "headquarters": "Mushalpur",
+            "cities": ["Mushalpur", "Tamulpur", "Goreswar"]
+          },
+          {
+            "id": "AS-BAR",
+            "name": "Barpeta",
+            "headquarters": "Barpeta",
+            "cities": ["Barpeta", "Barpeta Road", "Howli"]
+          },
+          {
+            "id": "AS-CAC",
+            "name": "Cachar",
+            "headquarters": "Silchar",
+            "cities": ["Silchar", "Lakhipur", "Sonai"]
+          }
+        ]
+      },
+      {
+        "id": "BR",
+        "name": "Bihar",
+        "type": "State",
+        "capital": "Patna",
+        "districts": [
+          {
+            "id": "BR-AR",
+            "name": "Araria",
+            "headquarters": "Araria",
+            "cities": ["Araria", "Forbesganj", "Jogbani"]
+          },
+          {
+            "id": "BR-AW",
+            "name": "Arwal",
+            "headquarters": "Arwal",
+            "cities": ["Arwal", "Karpi"]
+          },
+          {
+            "id": "BR-AU",
+            "name": "Aurangabad",
+            "headquarters": "Aurangabad",
+            "cities": ["Aurangabad", "Daudnagar", "Rafiganj"]
+          }
+        ]
+      }
+    ]
+  }
