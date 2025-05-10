@@ -1,30 +1,38 @@
-const mongoose = require('mongoose');
 require('dotenv').config();
+const mongoose = require('mongoose');
+const State = require('./models/state'); // Create this model file
 
 async function seedDatabase() {
-  await mongoose.connect(process.env.MONGODB_URI);
-  
-  const State = mongoose.model('State', {
-    name: String,
-    districts: [String]
-  });
+  try {
+    await mongoose.connect(process.env.MONGODB_URI);
+    console.log('Connected to MongoDB for seeding');
 
-  const sampleData = [
-    {
-      name: "Maharashtra",
-      districts: ["Mumbai", "Pune", "Nagpur", "Thane"]
-    },
-    {
-      name: "Karnataka",
-      districts: ["Bangalore Urban", "Mysore", "Belgaum"]
-    }
-    // Add all states and districts
-  ];
+    // Sample data - add all Indian states
+    const indianStates = [
+      {
+        name: "Maharashtra",
+        districts: ["Mumbai", "Pune", "Nagpur", "Thane", "Nashik"]
+      },
+      {
+        name: "Karnataka",
+        districts: ["Bangalore Urban", "Mysuru", "Belagavi", "Hubballi-Dharwad"]
+      },
+      // Add more states as needed
+      {
+        name: "Tamil Nadu",
+        districts: ["Chennai", "Coimbatore", "Madurai", "Tiruchirappalli"]
+      }
+    ];
 
-  await State.deleteMany({});
-  await State.insertMany(sampleData);
-  console.log("Database seeded!");
-  process.exit(0);
+    await State.deleteMany({});
+    await State.insertMany(indianStates);
+    
+    console.log(`${indianStates.length} states inserted`);
+    process.exit(0);
+  } catch (err) {
+    console.error('Seeding error:', err);
+    process.exit(1);
+  }
 }
 
-seedDatabase().catch(console.error);
+seedDatabase();
